@@ -12,6 +12,7 @@ textrecog/master/master_resnet31_12e_st_mj_sa.py
 textrecog/nrtr/nrtr_resnet31-1by16-1by8_6e_st_mj.py
 textrecog/robust_scanner/robustscanner_resnet31_5e_st-sub_mj-sub_sa_real.py
 textrecog/sar/sar_resnet31_parallel-decoder_5e_st-sub_mj-sub_sa_real.py
+textrecog/sar/sar_r31_parallel_decoder_chinese.py
 textrecog/satrn/satrn_shallow-small_5e_st_mj.py
 textrecog/satrn/satrn_shallow-small_5e_st_mj.py
 textrecog/aster/aster_resnet45_6e_st_mj.py
